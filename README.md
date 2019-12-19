@@ -53,7 +53,7 @@ To run the following command, note that you need an existing session file (saved
 Adjusting your crontab running as you wish with the flags you want to use. This is just an example, as I run it :)
 
 ## Maintenance
-This repo is maintained by its author [Tobias Lindberg](https://github.com/tobiasehlert).
+This repo is maintained by its author [Tobias Lindberg](https://github.com/tobiasehlert) with the help from these awesome [contributors](https://github.com/tobiasehlert/instaloader-to-gohugo-md/blob/master/CONTRIBUTORS.md)..
 
 ## License
 Coder is licensed under the [LICENSE](https://github.com/tobiasehlert/instaloader-to-gohugo-md/blob/master/LICENSE).
