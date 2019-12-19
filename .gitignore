@@ -1,0 +1,4 @@
+# files that are ignored for this repos purpose
+/content/
+/hashes/
+config.php
