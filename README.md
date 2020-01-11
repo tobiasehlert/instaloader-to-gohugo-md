@@ -48,6 +48,8 @@ If you want Instaloader to download new picture automatically, you can schedule 
 
 To run the following command, note that you need an existing session file (saved in */tmp/.instaloader-<YOUR_LINUX_USER>/session-<YOUR_INSTAGRAM_ACCOUNT>*), that you can reuse, to trigger a first run as shown under install, and then this will work just fine.
 
+You probably should move the sessionfile from the /tmp folder to another place. For example your home directory ~/. When doing that, you need to specify the crontal command to also include --sessionfile followed by the file itself.
+
 `instaloader <THE_ACCOUNT_TO_EXPORT> --login <YOUR_INSTAGRAM_ACCOUNT> --no-profile-pic --no-compress-json --commit-mode --fast-update --quiet`
 
 Adjusting your crontab running as you wish with the flags you want to use. This is just an example, as I run it :)
